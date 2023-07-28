@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "elementtree": "^0.1.7",
-    "plist": "^2.1.0"
+    "plist": "^3.1.0"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -33,6 +33,5 @@
   "bugs": {
     "url": "https://github.com/mircoc/cordova-plugin-settings-hook/issues"
   },
-  "homepage": "https://github.com/mircoc/cordova-plugin-settings-hook",
-  "devDependencies": {}
+  "homepage": "https://github.com/mircoc/cordova-plugin-settings-hook"
 }
